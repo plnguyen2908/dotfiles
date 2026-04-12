@@ -28,7 +28,6 @@ require("lazy").setup({
 	require("plugins.indent-blankline"),
 	require("plugins.misc"),
 	require("plugins.autosave"),
-	require("plugins.snacks"),
 	require("plugins.claudecode"),
 	require("plugins.venv"),
 	require("plugins.toggleterm"),

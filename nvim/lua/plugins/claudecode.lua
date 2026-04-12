@@ -1,8 +1,5 @@
 return {
 	"coder/claudecode.nvim",
-	dependencies = {
-		"folke/snacks.nvim", -- optional
-	},
 	config = true,
 	keys = {
 		{ "<leader>a", nil, desc = "AI/Claude Code" },
