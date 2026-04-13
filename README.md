@@ -22,7 +22,7 @@ git clone -b v2.3.0 https://github.com/catppuccin/tmux.git ~/.config/tmux/plugin
 - Download tmux-cpu:
 
 ```
-$ git clone https://github.com/tmux-plugins/tmux-cpu.git ~/.config/tmux/plugins/tmux-plugins/tmux-cpu
+git clone https://github.com/tmux-plugins/tmux-cpu.git ~/.config/tmux/plugins/tmux-plugins/tmux-cpu
 ```
 
 - Download tmux-battery:
